@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **AI & Machine Learning**
+- 💻 I’m currently learning **AI & Machine Learning**
 - 👨‍💻 All of my projects are available at [muradofficial.vercel.app](https://muradofficial.vercel.app/)
 - ✍️ I regularly write articles on [my portfolio](https://muradofficial.vercel.app/)
 - 💬 Ask me about **React, Django, and Backend Architecture**
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ Languages & Tools by Niche
+### 🛠️ Languages & Tools
 
 #### 🔙 Backend Development
 <p align="left">
