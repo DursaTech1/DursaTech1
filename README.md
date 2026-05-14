@@ -30,7 +30,7 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" height="30" width="40" />
   </a>
   <a href="mailto:muraddemelash@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="40" />
   </a>
 </p>
 
