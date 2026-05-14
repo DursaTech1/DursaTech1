@@ -86,22 +86,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muraddemos&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muraddemos&" alt="GitHub Streak" />
-</p>
-
----
-
-### 🎯 Fun Zone
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-⭐️ From [Murad D.](https://github.com/muraddemos)
