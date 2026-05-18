@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://muradofficial.vercel.app/" target="_blank">Portfolio</a> ·
   <a href="mailto:muraddemelash@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/murad-d" target="_blank">LinkedIn</a> ·
   <a href="https://t.me/DursaTech" target="_blank">Telegram</a>
 </p>
 
