@@ -48,6 +48,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murad-D&show_icons=true&theme=dark" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad-D&layout=compact&theme=dark" height="150">
+  <img src="https://pat-1-beta.vercel.app/api?username=Murad-D&show_icons=true&theme=dark" height="150">
+  <img src="https://pat-1-beta.vercel.app/api/top-langs/?username=Murad-D&layout=compact&theme=dark" height="150">
 </p>
