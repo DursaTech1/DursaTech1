@@ -2,7 +2,7 @@
 <h3 align="center">Django Backend Developer · Ethiopia</h3>
 
 <p align="center">
-  <a href="[https://murad-ec4l.onrender.com/" target="_blank">Portfolio</a> ·
+  <a href="https://murad-ec4l.onrender.com/" target="_blank">Portfolio</a> ·
   <a href="mailto:muraddemelash@gmail.com">Email</a> ·
   <a href="https://t.me/DursaTech" target="_blank">Telegram</a>
 </p>
