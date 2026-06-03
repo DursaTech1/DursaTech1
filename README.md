@@ -13,7 +13,7 @@
 - 🔭 Exploring **AI & Machine Learning**
 - 💬 Ask me about **Django, REST APIs, Backend Architecture**
 - 🔒 Background in **Cybersecurity & Networking**
-- 🌐 [muradofficial.vercel.app](https://muradofficial.vercel.app/)
+- 🌐 [muradofficial.vercel.app]([https://muradofficial.vercel.app/](https://murad-ec4l.onrender.com))
 
 ---
 
