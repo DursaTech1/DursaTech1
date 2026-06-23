@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murad D.</h1>
 <h3 align="center">Django Backend Developer · Ethiopia</h3>
 
-<p align="center">
-
-  <a href="mailto:muraddemelash@gmail.com">Email</a> ·
-  <a href="https://t.me/DursaTech" target="_blank">Telegram</a>
-</p>
 
 ---
 
