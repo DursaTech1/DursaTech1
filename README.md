@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Murad Demelash</h1>
-<h3 align="center">AI Automation & Full-Stack Developer | Python • Django • React</h3>
+<h3 align="center">AI-Powered Full-Stack Developer | Django, React & Python</h3>
 
 ---
 
 ### 🚀 About Me
 
-* 🎓 3rd Year IT Student
+* 🎓 IT Professional
 * 🤖 Building AI Agents, Automation Systems & SaaS Applications
 * 🔭 Currently learning AI Engineering, LLMs, and Workflow Automation
 * 💻 Experienced with Django, FastAPI, REST APIs, and React
