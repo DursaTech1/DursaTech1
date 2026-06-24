@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-* 🎓 IT Professional
+* 💻 Software Developer
 * 🤖 Building AI Agents, Automation Systems & SaaS Applications
 * 🔭 Currently learning AI Engineering, LLMs, and Workflow Automation
 * 💻 Experienced with Django, FastAPI, REST APIs, and React
@@ -64,12 +64,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murad-D&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad-D&layout=compact&theme=tokyonight" height="170"/>
-</p>
 ---
 
 ### 🤝 Let's Connect
