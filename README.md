@@ -64,9 +64,8 @@
 
 ---
 
-
----
-
 ### 🤝 Let's Connect
 
 I'm always interested in collaborating on AI products, SaaS applications, automation systems, and innovative software projects.
+
+---
