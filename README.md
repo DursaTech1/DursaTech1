@@ -5,13 +5,13 @@
 
 ### 🚀 About Me
 
-* 💻 Software Developer
-* 🤖 Building AI Agents, Automation Systems & SaaS Applications
-* 🔭 Currently learning AI Engineering, LLMs, and Workflow Automation
-* 💻 Experienced with Django, FastAPI, REST APIs, and React
-* 🌱 Exploring RAG, LangChain, LangGraph, and Multi-Agent Systems
-* 🔒 Background in Cybersecurity & Networking
-* ⚡ Passionate about creating scalable products and solving real-world problems
+- 💻 Software Developer
+- 🤖 Building AI Agents, Automation Systems & SaaS Applications
+- 🔭 Currently learning AI Engineering, LLMs, and Workflow Automation
+- 💻 Experienced with Django, FastAPI, REST APIs, and React
+- 🌱 Exploring RAG, LangChain, LangGraph, and Multi-Agent Systems
+- 🔒 Background in Cybersecurity & Networking
+- ⚡ Passionate about creating scalable products and solving real-world problems
 
 ---
 
@@ -55,12 +55,12 @@
 
 ### 🎯 Current Focus
 
-* AI Automation Platforms
-* AI Agents & Workflow Automation
-* Retrieval-Augmented Generation (RAG)
-* SaaS MVP Development
-* Django & FastAPI Backends
-* React & Next.js Applications
+- AI Automation Platforms
+- AI Agents & Workflow Automation
+- Retrieval-Augmented Generation (RAG)
+- SaaS MVP Development
+- Django & FastAPI Backends
+- React & Next.js Applications
 
 ---
 
@@ -68,4 +68,13 @@
 
 I'm always interested in collaborating on AI products, SaaS applications, automation systems, and innovative software projects.
 
+- **Portfolio**: [https://murad-nine.vercel.app/](https://murad-nine.vercel.app/)
+
 ---
+
+### 📊 GitHub Stats
+
+<!-- Optional: Add your GitHub stats here for a more complete profile -->
+<!--
+![Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=murad-demelash&show_icons=true&theme=radical)
+-->
