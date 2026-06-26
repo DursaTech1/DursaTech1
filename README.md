@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murad Demelash</h1>
+<h1 align="center">Hi 👋, I'm Murad </h1>
 <h3 align="center">AI-Powered Full-Stack Developer | Django, React & Python</h3>
 
 ---
