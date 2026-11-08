@@ -68,7 +68,7 @@
 
 I'm always interested in collaborating on AI products, SaaS applications, automation systems, and innovative software projects.
 
-- **Portfolio**: [https://muraddev.vercel.app/](Murad)
+- **Portfolio**: [Murad.dev](https://muraddev.vercel.app/)
 
 ---
 
